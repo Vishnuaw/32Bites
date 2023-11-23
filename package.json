@@ -1,0 +1,35 @@
+{
+  "name": "32bites",
+  "version": "1.0.0",
+  "description": "32 bites is Food delivering app",
+  
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishnuaw/32Bites.git"
+  },
+  "keywords": [
+    "react",
+    "header",
+    "footer",
+    "vishnu"
+  ],
+  "author": "Vishnuvardhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishnuaw/32Bites/issues"
+  },
+  "homepage": "https://github.com/Vishnuaw/32Bites#readme",
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
